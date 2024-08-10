@@ -11,3 +11,6 @@ Ensure you have Python and `pip` installed on your system. You will need `yt-dlp
 ### Install `yt-dlp`
 
 To install `yt-dlp`, run the following command:
+
+```bash
+pip install yt-dlp
